@@ -2,7 +2,7 @@
 
 Запуск:
 
--- До начала запуска клонируйте данный репозиторий `git clone https://github.com/ksunchikk/tirads`
+-- До начала запуска клонируйте данный репозиторий `git clone https://github.com/ksunchikk/tirads_yolov5_detection`
 
 -- Затем подготовьте среду для работы: установите модуль torch и выполните в командной строке `pip install -r requirements.txt` (из дериктории клонированного репозитория)
 
